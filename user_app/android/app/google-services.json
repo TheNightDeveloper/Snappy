@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "329481041059",
+    "firebase_url": "https://snapp-indriver-clone-default-rtdb.firebaseio.com",
+    "project_id": "snapp-indriver-clone",
+    "storage_bucket": "snapp-indriver-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329481041059:android:b13ac60d20d3bd03c3bb16",
+        "android_client_info": {
+          "package_name": "com.sadegh.driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329481041059-0p9hdq9vealfatln1soptuaehek9p9lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF0LCJA_ncLl85KDNVdo8VsHgp4J6LVyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329481041059-0p9hdq9vealfatln1soptuaehek9p9lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329481041059:android:e5cb8d765b7234dfc3bb16",
+        "android_client_info": {
+          "package_name": "com.sadegh.user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329481041059-0p9hdq9vealfatln1soptuaehek9p9lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF0LCJA_ncLl85KDNVdo8VsHgp4J6LVyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329481041059-0p9hdq9vealfatln1soptuaehek9p9lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
